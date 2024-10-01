@@ -603,7 +603,7 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 60%;
   height: auto;
 }
 
@@ -8119,6 +8119,7 @@ textarea.form-control-lg {
 
 .fw-bolder {
   font-weight: bolder !important;
+  font-size: 20px;
 }
 
 .lh-1 {
@@ -11568,6 +11569,7 @@ html {
   background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  font-size: 35px;
 }
 
 .rounded-4 {
